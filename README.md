@@ -41,3 +41,28 @@ Item visibility
  Clear comparison between Low Fat vs Regular products
  Outlet-level insights help identify high-performing store segments
  Clean and business-ready layout suitable for stakeholder reporting
+
+ # Business Impact & Insights
+🔹 Business Impact
+
+Improved decision-making: Centralized view of sales, ratings, and outlet performance helps stakeholders quickly identify high- and low-performing segments.
+
+Better inventory planning: Item-type analysis highlights top-selling categories (e.g., Hard Drinks, Breads), enabling optimized stock allocation.
+
+Outlet performance optimization: Comparison by outlet size and location supports data-driven expansion and resource allocation strategies.
+
+Customer satisfaction monitoring: Average rating tracking helps business teams identify potential quality or service issues early.
+
+Operational visibility: KPI cards provide at-a-glance performance monitoring for faster executive reporting.
+
+# Key Insights
+
+📊 Hard Drinks and Breads are among the highest revenue-generating item categories.
+
+   Low Fat vs Regular products show comparable performance, indicating balanced customer preference.
+
+   Tier 3 small outlets contribute significantly (~$8.38K sales), showing strong demand in these locations.
+
+⭐ The average rating of ~4.0 reflects generally positive customer satisfaction.
+
+   Item visibility (~0.10) suggests scope for improving product placement and discoverability.
