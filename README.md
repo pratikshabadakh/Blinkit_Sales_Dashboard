@@ -66,3 +66,9 @@ Operational visibility: KPI cards provide at-a-glance performance monitoring for
 ⭐ The average rating of ~4.0 reflects generally positive customer satisfaction.
 
    Item visibility (~0.10) suggests scope for improving product placement and discoverability.
+
+#Demo: ## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="PASTE_YOUR_IMAGE_LINK_HERE" alt="Blinkit Dashboard" width="900"/>
+</p>
